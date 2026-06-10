@@ -1,4 +1,6 @@
 [package]
+description = "ternary-secret-share - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-secret-share"
 name = "ternary-secret-share"
 version = "0.1.0"
 edition = "2021"
